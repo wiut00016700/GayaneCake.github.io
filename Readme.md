@@ -27,5 +27,7 @@ More details about the "Gayane" cake company can be found in the concept website
 
 Customers can share their experiences and thoughts on the company's products in a review section of the "Gayane" concept website. Through this interactive feature, customers can comment about "Gayane's" cakes, giving potential customers insight into the satisfaction and quality of the product. Customers can use the review section as a useful tool to help them make decisions, and the company can use it to collect insightful feedback for ongoing development.
 
-GitHub Link: https://github.com/wiut00016700/GayaneCake.github.io
+
+GitHub Link: https://github.com/wiut00016700/GayaneCake.github.io 
+
 Website Link: https://wiut00016700.github.io/GayaneCake.github.io/home_index.html
